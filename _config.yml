@@ -1,0 +1,11 @@
+title: Jayanthan V.T.S
+description: Advocate | B.B.A., LL.B. (Hons) | Legal Researcher
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - experience.md
+  - education.md
+  - publications.md
+  - awards.md
+  - skills.md
